@@ -11,3 +11,4 @@
 
 <b><i>This Digital Clock Project Is Fully Functional & Responsive.</i></b> 
 <br><br><br>
+![Screenshot (415)](https://user-images.githubusercontent.com/85762282/153597120-2a2ce92e-df40-43b4-8751-8613d699dd7e.png)
