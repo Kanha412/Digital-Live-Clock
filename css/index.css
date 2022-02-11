@@ -1,0 +1,15 @@
+.logo:hover{
+    zoom: 101.5%;
+}
+main{
+    height:85vh;
+}
+footer{
+    background-color: rgb(255, 187, 187);
+    height:4vh;
+    display: flexbox;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
